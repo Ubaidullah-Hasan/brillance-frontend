@@ -1,7 +1,10 @@
 import "./App.css";
 import BackgroundPattern from "./components/BackgroundPattern";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Nav from "./components/Nav";
+import Pricing from "./components/Pricing";
+import Services from "./components/Services";
 import Testimonial from "./components/Testimonial";
 import VerticalLine from "./components/VerticalLine";
 
@@ -21,6 +24,9 @@ function App() {
             <Hero />
             <BackgroundPattern />
             <Testimonial />
+            <Services />
+            <Pricing />
+            <Footer />
           </div>
         </div>
       </div>
