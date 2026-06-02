@@ -37,7 +37,7 @@ export default function BackgroundPattern() {
             </div>
             {/* Added image for Plan your schedules card */}
             <img
-              src="./assets/images/services/plan-your-schedules.jpeg"
+              src="./src/assets/images/services/plan-your-schedules.jpeg"
               alt="Plan schedules dashboard"
               className="w-full h-40 object-cover rounded-md mt-3"
             />
@@ -53,7 +53,7 @@ export default function BackgroundPattern() {
             </div>
             {/* Added analytics dashboard image */}
             <img
-              src="./assets/images/services/analytics-dashboard-with-charts-graphs-and-data-vi.jpg"
+              src="./src/assets/images/services/analytics-dashboard-with-charts-graphs-and-data-vi.jpg"
               alt="Analytics dashboard"
               className="w-full h-40 object-cover rounded-md mt-3"
             />
@@ -69,7 +69,7 @@ export default function BackgroundPattern() {
             </div>
             {/* Added data visualization image */}
             <img
-              src="./assets/images/services/data-visualization-dashboard-with-interactive-char.jpg"
+              src="./src/assets/images/services/data-visualization-dashboard-with-interactive-char.jpg"
               alt="Data visualization dashboard"
               className="w-full h-40 object-cover rounded-md mt-3"
             />

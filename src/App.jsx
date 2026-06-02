@@ -2,6 +2,7 @@ import "./App.css";
 import BackgroundPattern from "./components/BackgroundPattern";
 import Hero from "./components/Hero";
 import Nav from "./components/Nav";
+import Testimonial from "./components/Testimonial";
 import VerticalLine from "./components/VerticalLine";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <div className="pt-16 sm:pt-20 md:pt-24 lg:pt-[216px] pb-8 sm:pb-12 md:pb-16 flex flex-col justify-start items-center px-2 sm:px-4 md:px-8 lg:px-0 w-full sm:pl-0 sm:pr-0 pl-0 pr-0">
             <Hero />
             <BackgroundPattern />
+            <Testimonial />
           </div>
         </div>
       </div>
