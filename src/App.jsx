@@ -1,4 +1,3 @@
-import "./App.css";
 import BackgroundPattern from "./components/BackgroundPattern";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
